@@ -1,0 +1,5 @@
+{
+  "name": "kingdreco devcontainer",
+  "forwardPorts": [8080],
+  "postCreateCommand": "echo 'Dev container ready; port 8080 forwarded'"
+}
